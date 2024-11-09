@@ -10,8 +10,11 @@ Data Science Programming with Python Project.
 create an interactive experience that help you explore data related to bike share systems for three major cities in the United States—Chicago, New York City and Washington.
 
 ### Files used
-Include the files used
+bikeshare.py
+washington.csv
+new_york_city.csv
+chicago.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+https://github.com/karan842/Data-Science-Projects.
 
